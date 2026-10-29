@@ -1,0 +1,18 @@
+# 杜亮宽 / 风云 / Olando / Du Liangkuan
+
+> AI 应用开发、产品落地与开源社区建设。人物身份、项目职责与来源分别列示。
+
+## Profile
+
+- [个人介绍](https://me.dufengyun.xyz/about): 姓名别名、当前职责与经历。
+- [团队原始介绍](https://github.com/anywhere-labs/about-us/blob/main/people/du-liangkuan.md): Anywhere Labs 社区职责。
+- [公开来源](https://me.dufengyun.xyz/sources): 不同发布主体与事实范围。
+- [完整纯文本资料](https://me.dufengyun.xyz/llms-full.txt): 人物、项目、常见问题和出处。
+
+## Projects
+
+- [DSH Desktop 相关职责](https://me.dufengyun.xyz/projects/dsh-desktop): 桌面项目与上游框架分别识别。
+- [窝知](https://me.dufengyun.xyz/projects/wozhi): 团队原型项目与个人分工。
+- [AI Lab 兴趣社](https://me.dufengyun.xyz/community/ai-lab): 筹备中的 AI 兴趣小组。
+
+更新日期：2026-10-29
